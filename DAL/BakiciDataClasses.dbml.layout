@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.875" name="BakiciDataClasses">
+  <DataContextMoniker Name="/BakiciDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b01d69eb-250c-4d12-a2bd-f3a7f5e0d404" absoluteBounds="0.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/BakiciDataClassesDataContext/AYLAR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9ffd5797-500b-434f-a2c5-4d377d0df26f" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3c3f931a-bb53-427f-9305-de555845d242" absoluteBounds="0.75, 2.75, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/BakiciDataClassesDataContext/BAKICI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7455a825-0ecb-45ec-aa17-c6cf383425b4" absoluteBounds="0.76500000000000012, 3.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6dfb7828-edac-4cbc-9846-adb29333e1a7" absoluteBounds="3.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/BakiciDataClassesDataContext/DEPARTMAN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8b64da21-54df-4d97-8545-54ea89428b90" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f9980b56-f3af-4149-ae53-9838ae91644d" absoluteBounds="3.75, 2.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BakiciDataClassesDataContext/I" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0c9c145a-fb17-4071-9a32-c1137134cbab" absoluteBounds="3.7650000000000006, 3.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9747f6bf-e111-4eba-a6d6-7c24303d54c2" absoluteBounds="3, 5.125, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/BakiciDataClassesDataContext/ISDURUM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4ab98c14-5304-400a-b089-69ac48a6bdba" absoluteBounds="3.0149999999999997, 5.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7fd77c6d-92c7-4d22-8480-00fc97000f5e" absoluteBounds="6.75, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BakiciDataClassesDataContext/IZIN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cb33d425-cd30-4cd4-84a9-12d9994bf7cc" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b3724827-0178-45fd-8c76-5fc415d1a362" absoluteBounds="6.75, 3.75, 2, 1.193992513020834">
+      <DataClassMoniker Name="/BakiciDataClassesDataContext/IZINDURUM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1b976c86-80e3-4dce-ac5b-51b1ebeea1b7" absoluteBounds="6.765, 4.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="67fee34c-1157-4a84-ac01-2a1d09559c26" absoluteBounds="3.625, 6.875, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/BakiciDataClassesDataContext/MAA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2f8bf022-b0bc-4c72-af96-89329230b04c" absoluteBounds="3.6399999999999997, 7.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dc8cd2f0-fbcc-45c1-b580-92306dde1ced" absoluteBounds="0.625, 6.75, 2, 1.3862939453125014">
+      <DataClassMoniker Name="/BakiciDataClassesDataContext/POZISYON" />
+      <nestedChildShapes>
+        <elementListCompartment Id="89ca8ad0-841e-4700-bbc5-3d04fe63be6f" absoluteBounds="0.64000000000000057, 7.2100000000000009, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
